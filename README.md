@@ -64,15 +64,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   </a>
-  <a href="https://microservices.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microservices.svg" alt="microservices" width="40" height="40"/> 
-  </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> 
   </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/json_web_token/json_web_token-icon.svg" alt="jwt" width="40" height="40"/> 
-  </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
