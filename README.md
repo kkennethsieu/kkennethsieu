@@ -1,17 +1,16 @@
 <h1>Kenneth Sieu</h1>
-<h3>CS Student @ Oregon State · iOS Developer · Graduating 2027</h3>
+<h3>CS Student @ Oregon State &nbsp;·&nbsp; iOS Developer &nbsp;·&nbsp; Graduating 2027</h3>
 
-🟢 &nbsp;Open to iOS internships
+Open to iOS internships &nbsp;—&nbsp; kkennethsieu@gmail.com
 
 ---
 
 ### About
 
-- 📱 &nbsp;Building **NRC Clone** — a SwiftUI + SwiftData GPS running tracker with live charts and full persistence
-- 🌱 &nbsp;Currently learning **ML** and CoreML integration for iOS
-- 💼 &nbsp;Portfolio: [kenny-sieu-portfolio.vercel.app](https://kenny-sieu-portfolio.vercel.app/)
-- 📫 &nbsp;Reach me at **kkennethsieu@gmail.com**
-- ⚡ &nbsp;Into snowboarding and wedding videography
+- Building **NRC Clone** — a SwiftUI + SwiftData GPS running tracker with live charts and full persistence
+- Currently learning ML and CoreML integration for iOS
+- [kenny-sieu-portfolio.vercel.app](https://kenny-sieu-portfolio.vercel.app/)
+- Snowboarding and wedding videography on the side
 
 ---
 
