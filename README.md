@@ -1,7 +1,7 @@
 <h1>Kenneth Sieu</h1>
 <h3>CS Student @ Oregon State &nbsp;·&nbsp; iOS Developer &nbsp;·&nbsp; Graduating 2027</h3>
 
-Open to iOS internships &nbsp;—&nbsp; kkennethsieu@gmail.com
+Open to iOS and Software Engineering internships &nbsp;—&nbsp; kkennethsieu@gmail.com
 
 ---
 
